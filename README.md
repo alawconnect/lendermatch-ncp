@@ -4,5 +4,5 @@
 
 Setup Jotform API key in Streamlit Secrets (Settings → Secrets)
 
-JOTFORM_API_KEY = your_key
-JOTFORM_FORM_ID = your_form_id
+JOTFORM_API_KEY = "546d29ba2d60435a7cbb25016bc7f20b"
+JOTFORM_FORM_ID = "253067964585067"
